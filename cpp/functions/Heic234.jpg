@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int print(char);
+int main(){
+    cout<<print(65)<<endl;
+    int num;
+    cin>> num;
+    cout<<print(num)<<endl;
+    return 0;
+}
+
+int print(char a){
+    return a ;
+}
