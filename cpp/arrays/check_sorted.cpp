@@ -17,3 +17,5 @@ int main(){
     int arr[size] = {2,5,6,7,13,15,18,19,78,100};
     cout<<is_sorted(size, arr)<<endl;
 }
+//Comment
+
